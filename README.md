@@ -7,8 +7,3 @@ Styling Of Text will go on Great_T.css, So we will import that file to Great.css
 
 Javascript files will be organized as the Project Progresses.
 
-As Of Now: 
-
-Total Html Files: 1
-Total Css Files: 4
-Total JS Files: 1
