@@ -12,10 +12,10 @@ Javascript files will be organized as the Project Progresses.
 Still to be Organized.
 
 Vids (Page): 
-- Have something similiar to what youtube has now.
+ Have something similiar to what youtube has now.
 Musicians (Page):
-- A Page where you can search musicians by name and get results. 
+ A Page where you can search musicians by name and get results. 
 Shop (Page):
-- A Store where they can buy merchandise.
+ A Store where they can buy merchandise.
 Contact Us (Page):
-- Contact Info will be displayed.
+ Contact Info will be displayed.
