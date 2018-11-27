@@ -1,1 +1,16 @@
+/*Flexbox_Structure*/
 
+body {
+    margin: 0px;
+}
+
+.navHolder {
+    display: flex;
+    justify-content: center;
+}
+
+.SMLV {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+} 

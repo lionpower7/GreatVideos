@@ -1,20 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=ABeeZee|Alegreya|Alegreya+Sans+SC|Asar|Assistant');
+@import url('https://fonts.googleapis.com/css?family=ABeeZee|Alegreya|Alegreya+Sans+SC|Asar|Assistant|Secular+One');
 
 .theNav ul li a {
     text-decoration: none;
-    font-family: "Alegreya", sans-serif;
-    font-size: 20px;
+    font-family: "Alegreya Sans SC", sans-serif;
+    font-size: 22px;
     font-weight: 800;
-    color: #143d5a;
+    color: #2d8bc2;
+    margin-right: 20px;
+    padding-bottom: 7px;
 }
 .theNav ul li a:hover {
     transition: 0.7s;
-    color: #55ACEE;
+    color: #f7fdff;
 }
 /* .socialMedia ||| Link Decoration */
 .fa {
-    padding: 20px;
-    font-size: 50px;
+    padding: 25px;
     width: 50px;
     text-align: center;
     text-decoration: none;
@@ -29,7 +30,7 @@
     color: white;
 }
 .fa-twitter {
-    background: #55ACEE;
+    background: #2d8bc2;
     color: white;
 }
 .fa-instagram {
@@ -39,4 +40,19 @@
 .fa-youtube {
     background: #bb0000;
     color: white;
+}
+/* GV NAME */
+span#G1 {
+    color: #2d8bc2;
+    font-family: "Secular One", sans-serif;
+}
+
+span#G2 {
+    color: #bb0000;
+    font-family: "Secular One", sans-serif;
+
+}
+/* 1-NAV : margin-right || float: right*/
+.theNav ul li:first-child {
+    margin-right: 600px;
 }

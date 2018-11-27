@@ -2,3 +2,21 @@
 @import "Great_T.css";
 @import "Great-Res.css";
 
+.navHolder {
+    background: #252d2f;
+    height: 90px;
+    line-height: 60px;
+}
+
+
+.theNav li {
+    display: inline;
+}
+
+.socialMedia ul li {
+    list-style-type: none;
+} 
+
+.SMLV {
+    background: radial-gradient(#ffffff,#11a5ca);
+}
